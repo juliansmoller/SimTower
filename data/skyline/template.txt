@@ -1,0 +1,60 @@
+   bbbbbbbb                                                                                              
+  aaaaaabbba                                                                                             
+ aabbbbbbbbaa                                                   a                                        
+acaaaaaabbbaaa                                                  a                                        
+aaabbbbbbbbaaa                       cc                      aaaaaa                                      
+acaaaaaabbbaaa                       ccc                     aaaaaa                                      
+aaabbbbbbbbaaa                       cccc                    aaaaaa                      eeeee           
+acaaaaaabbbaaa                       eecea                   aaaaaa                      eeeee           
+aaabbbbbbbbaaa         a             cceea                   aaaaaa                      eeeee           
+aaabbbbbbbbaaa         a             cceea                   aaaaaa                      eeeee           
+acaaaaaabbbaaa         a             eecea                 eeaaaaaaaa     ee             eeeee           
+aaabbbbbbbbaaa         a             cceea                eeeaaaaaaaa     eea            eeeee           
+acaaaaaabbbaaa         a             eecea               eeeeaaaaaaaa     eea            eeeee           
+aaabbbbbbbbaaaa       aaaaaaddd      cceea  e           eeaeeaaaaaaaa    eeeeeee         eeeee           
+acaaaaaabbbaaaacc     ccccccbba      eecea eea          eeaeeaaaaaaaa    eeeeeee       bebeeee           
+aaabbbbbbbbaaaacc     aaaaaaddd      cceea eea          eeaeeaaaaaaaa    eeeeeee      ebebeeee           
+acaaaaaabbbaaaacc     ccccccbba      eecea eea          eeaeeaaaaaaaa    eeeeeee     bebebebbe           
+aaabbbbbbbbaaaacc     aaaaaaddd      cceea eeaaaaaa     eeaeeaaaaaaaa    eeeeeee     bebebebbe           
+acaaaaaabbbaaaacc     ccccccbba    cceecea eeaaaaaa     eeaeeaaaaaaaa    eeejfffffffjjfdddebbe           
+aaabbbbbbbbaaaacccc   aaaaaaddd    cccceea eeaaaaaa   aceeaeeaaaaaaaa    eeeaaaaaaaaaaakkkdbbe        ccc
+aaabbbbbbbbaaaacccc   aaaaaaddd    cccceea eeaaaaaa   aceeaeeaaaaaaaa    eeeaaaaaaaaaaakkkdbbe        ccc
+acaaaaaabbbaaaacccc ccccccccbba    cceeeea eeaaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd       ccc
+aaabbbbbbbbaaaacccc aaaaaaaadddee ffhiiiiiaeeaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd       ccc
+acaaaaaabbbaaaacccc ccccccccbbaee fahaahaiaeeaaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd       ccc
+aaabbbbbbbbaaaacccc aaaaaaaadddee feheeheiaeeaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd  ee eeccc
+acaaaaaabbbaaaaaaaa ccccccccbbaee feheeheiaeeeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd  ee eeccc
+aaabbbbbbbbaaaaaaaa aaaaaaaadddee feheeheiaeeeaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd  ee eeccc
+acaaaaaabbbaaaaaaaa ccccccccbbaee ggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd  aaaaaaaa
+aaabbbbbbbbaaaaaaaa aaaaaaaadddee aaaaaaabbddeaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd  aaaaaaaa
+acaaaaaabbbaaaaaaaa ccccccccbbaee ggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd  aaaaaaaa
+aaabbbbbbbbaaaaaaaa aaaaaaaadddaa aaaaaaabbddeaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd  aaaaaaaa
+aaabbbbbbbbaaaaaaaa aaaaaaaadddaa aaaaaaabbddeaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkddddd  aaaaaaaa
+acaaaaaabbbaaaaaaaa ccccccccbbaaa ggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkdddd  aaaaaaaa
+caabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddeaaaaa  cacaaaaaaaaaaaaa eeeeeeaaaaaaaaaaakkkdddddaaaccccccc
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaaeeeeeeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaa   ccccccccbbaaa ggggggffffdeaaaaa  cacaaaaaaaaaaaaaeeeeeeejfffffffjjfdddkdddd  aaaaaaaa
+caabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddeaaaaa  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaccccccc
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaaeeeeeeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaaeeeeeeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaaaaa  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaaaaa  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaeeee  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaeeee  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaeeee  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaa ccccccccbbaaaaggggggffffdeaeeee  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+ccabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaeeee  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaccccccc
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaeeee  cacaaaaaaaaaaaaa    eeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaeeee  cacaaaaaaaaaaaaa    eeeaaaaaaaaaaakkkdddddaaaaaaaaaa
+acaaaaaabbbaaaaaaaaaccccccccbbaaaaggggggffffdeaeeee  cacaaaaaaaaaaaaa eeeeeejfffffffjjfdddkddddaaaaaaaaaa
+aaabbbbbbbbaaaaaaaaaaaaaaaaadddaaaaaaaaaabbddaaeeee  cacaaaaaaaaaaaaaeeeeeeeaaaaaaaaaaakkkdddddaaaaaaaaaa
