@@ -1,0 +1,22 @@
+15|### Lobby
+14|C|C|C|C|C
+13|C|C|C|C|C
+12|HS|HS|HS|HS| |HC| |HS|HS|HS|HS
+11|HS|HS|HS|HS| |HC| |HS|HS|HS|HS
+10|O|O|O|O|O|O|O|O|O
+9|O|O|O|O|O|O|O|O|O
+8|R.A| |FF.A
+7|R.B| |FF.B
+6|R.C| |FF.C
+5|R.D| |FF.D
+4|R.E| |FF.E
+3|#
+2|### Lobby
+1|### Lobby
+L|### Lobby
+B1|PR.O| |SC
+B2|PR.O
+B3|PR.O
+B4|PR.O
+B5|PR.O|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS
+B6|PR.C|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS|PS
